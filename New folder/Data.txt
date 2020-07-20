@@ -1,0 +1,11 @@
+TanayM    34    3rd Year    10060    A+    5000
+anubhav    15    6-A    10239    A+    4954
+shubham    13    9-B   10403    B+    2900
+kapil    10    4-a    10414    B-    3200
+pallavi    11    5-b    10448    A-    4500
+kajal    10    4-c    10493    C+    2600
+gaurav    12    6-a    10554    C-    4600
+kavya    11    5-b    10600    A+    3600
+prakash    16    10-b    10697    B-    4200
+kaushambi    9    4-C    10761    A+    5000
+akshat mishra    21    12-B    10793    A+    4500
